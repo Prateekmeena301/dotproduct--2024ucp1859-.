@@ -14,9 +14,9 @@ def dot_product(a, b):
 
 if __name__ == "__main__":
     # Example vectors
-    v1 = [1, 2, 3]
-    v2 = [4, 5, 6]
-
+    v1 = [1, 2, 3,0]
+    v2 = [4, 5, 6,8]
+#added more values in vectors
     print("Vector 1:", v1)
     print("Vector 2:", v2)
 
